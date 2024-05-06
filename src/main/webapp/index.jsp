@@ -64,7 +64,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Codingrad</h1>
+        <h1>Welcome to PYTHONLIFE</h1>
     </header>
     
     <marquee behavior="scroll" direction="left">
