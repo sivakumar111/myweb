@@ -69,14 +69,14 @@
     
     <marquee behavior="scroll" direction="left">
         <div class="marquee-content">
-            <p>Codingrad Institute - Empowering your DevOps Journey</p>
+            <p>Pythonlife Institute - Empowering your DevOps Journey</p>
             <p>Explore our comprehensive DevOps course for a successful career!</p>
         </div>
     </marquee>
     
     <main>
-        <p>CodingRad Institute is dedicated to providing high-quality education in the field of technology. Our DevOps course is designed to equip you with the skills and knowledge needed for a successful career in the ever-evolving IT industry.</p>
-        <p>Why choose CodingRad DevOps Course?</p>
+        <p>Pythonlife Institute is dedicated to providing high-quality education in the field of technology. Our DevOps course is designed to equip you with the skills and knowledge needed for a successful career in the ever-evolving IT industry.</p>
+        <p>Why choose Pythonlife DevOps Course?</p>
         <ul>
             <li>Hands-on learning with real-world projects</li>
             <li>Expert instructors with industry experience</li>
@@ -92,7 +92,7 @@
                 <th>Description</th>
             </tr>
             <tr>
-                <td>Data Science</td>
+                <td>Data Science with python</td>
                 <td>Explore the world of data analysis and machine learning.</td>
             </tr>
             <tr>
@@ -100,8 +100,8 @@
                 <td>Learn the versatile and powerful Python programming language.</td>
             </tr>
             <tr>
-                <td>React JS</td>
-                <td>Build interactive user interfaces with the React JavaScript library.</td>
+                <td>SQL</td>
+                <td>Build interactive user interfaces with the Queries.</td>
             </tr>
             <tr>
                 <td>AWS</td>
@@ -115,7 +115,7 @@
     </main>
     
     <footer>
-        <p>&copy; 2024 Codingrad Institute</p>
+        <p>&copy; 2024 PYTHONLIFE Institute</p>
     </footer>
 </body>
 </html>
